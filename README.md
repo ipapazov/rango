@@ -1,4 +1,4 @@
 rango
 =====
 
-django tutorial project
+Django project
